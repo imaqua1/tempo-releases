@@ -8,8 +8,8 @@
 | Компьютер | Файл |
 |---|---|
 | **Windows** | [Tempo-Setup-0.5.1.exe](https://github.com/imaqua1/tempo-releases/releases/download/v0.5.1/Tempo-Setup-0.5.1.exe) |
-| **Mac с чипом Apple** (M1, M2, M3, M4) | [Tempo-0.5.0-arm64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.5.0/Tempo-0.5.0-arm64.dmg) |
-| **Mac с процессором Intel** | [Tempo-0.5.0-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.5.0/Tempo-0.5.0-x64.dmg) |
+| **Mac с чипом Apple** (M1, M2, M3, M4) | [Tempo-0.5.1-arm64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.5.1/Tempo-0.5.1-arm64.dmg) |
+| **Mac с процессором Intel** | [Tempo-0.5.1-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.5.1/Tempo-0.5.1-x64.dmg) |
 
 Какой у вас Mac? Меню  → «Об этом Mac». Если написано «Чип Apple…», берите первый файл для Mac, если «Процессор Intel», второй.
 
