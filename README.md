@@ -7,14 +7,14 @@
 
 | Компьютер | Файл |
 |---|---|
-| **Windows** | [Tempo-Setup-0.6.1.exe](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.1/Tempo-Setup-0.6.1.exe) |
-| **Mac с процессором Intel** | [Tempo-0.6.1-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.1/Tempo-0.6.1-x64.dmg) |
+| **Windows** | [Tempo-Setup-0.6.2.exe](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.2/Tempo-Setup-0.6.2.exe) |
+| **Mac с процессором Intel** | [Tempo-0.6.2-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.2/Tempo-0.6.2-x64.dmg) |
 
 Версия для Mac — для компьютеров с процессором Intel (меню  → «Об этом Mac» → «Процессор Intel»).
 
 ## Установка на Windows
 
-1. Скачайте `Tempo-Setup-0.6.1.exe` и откройте его.
+1. Скачайте `Tempo-Setup-0.6.2.exe` и откройте его.
 2. Если появится синее окно «Windows защитила ваш компьютер», нажмите **«Подробнее»**, затем **«Выполнить в любом случае»**. Это нормально для новых программ без платной подписи.
 3. Нажимайте «Далее», пока установка не закончится. Tempo появится на рабочем столе и в меню «Пуск».
 
@@ -32,7 +32,7 @@
 
 ### In English
 
-**Windows:** open `Tempo-Setup-0.6.1.exe`. If you see "Windows protected your PC", click **More info → Run anyway**, then follow the installer.
+**Windows:** open `Tempo-Setup-0.6.2.exe`. If you see "Windows protected your PC", click **More info → Run anyway**, then follow the installer.
 
 **Mac:** open the `.dmg` and drag Tempo into Applications. The first time, right-click Tempo → **Open** → **Open** (or allow it in System Settings → Privacy & Security). Allow Tempo to control System Events when asked.
 
