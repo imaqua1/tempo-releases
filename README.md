@@ -8,7 +8,7 @@
 | Компьютер | Файл |
 |---|---|
 | **Windows** | [Tempo-Setup-0.6.4.exe](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.4/Tempo-Setup-0.6.4.exe) |
-| **Mac с процессором Intel** | [Tempo-0.6.3-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.3/Tempo-0.6.3-x64.dmg) |
+| **Mac с процессором Intel** | [Tempo-0.6.4-x64.dmg](https://github.com/imaqua1/tempo-releases/releases/download/v0.6.4/Tempo-0.6.4-x64.dmg) |
 
 Версия для Mac — для компьютеров с процессором Intel (меню  → «Об этом Mac» → «Процессор Intel»).
 
